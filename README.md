@@ -1,2 +1,2 @@
 # Reddit-to-Old-Reddit
-www.reddit.com/xyz to old.reddit.com/xyz automatically.
+Changes every Reddit link you open to an old Reddit link (www.reddit.com/xyz to old.reddit.com/xyz). Thus effectively disables "Open in App" popup on Android. 

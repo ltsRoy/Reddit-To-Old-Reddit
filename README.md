@@ -19,6 +19,7 @@ Thus effectively disables "Open in App" popup on Android.
       i. Download the .crx file from the github reposiory.</br>
       ii. Select the option in 4a.</br>
       iii. Navigate to the folder with the .crx file and select it.</br>
+      iv. Go to Extensions and enable the extension if not already enabled, give the permissions it requires, if asked for.</br>
       iv. Restart browser.</br>
       Done!</br></br>
    b. **If only installation from unpacked option is present:**</br>
@@ -27,6 +28,7 @@ Thus effectively disables "Open in App" popup on Android.
           (On Android, default "File Manager"s mostly can do it. If a tool is needed, use [ZArchiver](https://play.google.com/store/search?q=zarchiver&c=apps&hl=en&gl=US))</br> 
       iii. Select the option in 4b.</br>
       iv. Navigate and select the extracted folder from 4bii.</br>
-       v. Restart browser.</br>
+       v. Go to Extensions and enable the extension if not already enabled, give the permissions it requires, if asked for.</br>
+       vi. Restart browser.</br>
       Done!</br>
 

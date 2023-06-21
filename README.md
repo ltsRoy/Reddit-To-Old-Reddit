@@ -32,4 +32,4 @@ Thus effectively disables "Open in App" popup on Android.
        vi. Restart browser.</br>
       Done!</br>
 
-**P.S.: The permissions asked may/will be for accessing the links you visit. It is necessary to scan and edit the links as required.
+**P.S.: The permissions asked may/will be for accessing the links you visit. It is necessary to scan and edit the links as required.**

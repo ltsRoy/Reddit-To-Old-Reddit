@@ -11,7 +11,7 @@ Android and PC:
    On Android, use:</br> 
     [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en&gl=US)</br>
     [Yandex](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en&gl=US)</br>
-2. Go to Extensions.</br>
+2. Go to Menu → Extensions.</br>
 3. If "Developer Mode" or something similar is present, enable that.</br>
 4. Follow any one based on case:</br>
    a. If installation from packed option is present (Check for an option with: ".crx/.zip/.tar" written beside it.)</br>

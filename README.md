@@ -23,7 +23,7 @@ Thus effectively disables "Open in App" popup on Android.
       v. Restart browser.</br>
       Done!</br></br>
    b. **If only installation from unpacked option is present:**</br>
-      i. Download the Reddit to Old Reddit.zip file from the Github repository.</br>
+      i. Download the [Reddit to Old Reddit.zip](https://github.com/ltsRoy/Reddit-To-Old-Reddit/blob/c96d132dd3dcd94d48e0a3bfe9b8c58234329962/Reddit%20to%20Old%20Reddit.zip) file from the Github repository.</br>
       ii. Extract it.</br>
           (On Android, default "File Manager"s mostly can do it. If a tool is needed, use [ZArchiver](https://play.google.com/store/search?q=zarchiver&c=apps&hl=en&gl=US))</br> 
       iii. Select the option in 4b.</br>

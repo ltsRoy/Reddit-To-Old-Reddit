@@ -3,6 +3,7 @@ Changes every Reddit link you open to an old Reddit link (www.reddit.com/xyz to 
 Thus effectively disables "Open in App" popup on Android. 
 # Installation:
 </br>
+
 **Android and PC:** 
 
 </br>

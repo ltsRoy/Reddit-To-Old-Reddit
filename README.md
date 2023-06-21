@@ -25,7 +25,7 @@ Thus effectively disables "Open in App" popup on Android.
       i. Download the zip file!</br>
       ii. Extract it.</br>
           (On Android, default "File Manager"s mostly can do it. If a tool is needed, use [ZArchiver](https://play.google.com/store/search?q=zarchiver&c=apps&hl=en&gl=US))</br> 
-      iii. Select the option in 4a.</br>
+      iii. Select the option in 4b.</br>
       iv. Navigate and select the extracted folder from 4bii.</br>
        v. Restart browser.</br>
       Done!</br>

@@ -16,7 +16,7 @@ Thus effectively disables "Open in App" popup on Android.
 3. If "Developer Mode" or something similar is present, enable that.</br>
 4. Follow any one based on case:</br>
    a. **If installation from packed option is present (Check for an option with: ".crx/.zip/.tar" written beside it.):**</br>
-      i. Download the Reddit to Old Reddit.crx file from the GitHub reposiory.</br>
+      i. Download the [Reddit to Old Reddit.crx](https://github.com/ltsRoy/Reddit-To-Old-Reddit/blob/c96d132dd3dcd94d48e0a3bfe9b8c58234329962/Reddit%20to%20Old%20Reddit.crx) file from the GitHub reposiory.</br>
       ii. Select the option in 4a.</br>
       iii. Navigate to the folder with the .crx file and select it.</br>
       iv. Go to Extensions and enable the extension if not already enabled, give the permissions it requires, if asked for.</br>

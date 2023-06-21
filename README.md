@@ -16,11 +16,11 @@ Thus effectively disables "Open in App" popup on Android.
 3. If "Developer Mode" or something similar is present, enable that.</br>
 4. Follow any one based on case:</br>
    a. **If installation from packed option is present (Check for an option with: ".crx/.zip/.tar" written beside it.):**</br>
-      i. Download the .crx file from the github reposiory.</br>
+      i. Download the Reddit .crx file from the github reposiory.</br>
       ii. Select the option in 4a.</br>
       iii. Navigate to the folder with the .crx file and select it.</br>
       iv. Go to Extensions and enable the extension if not already enabled, give the permissions it requires, if asked for.</br>
-      iv. Restart browser.</br>
+      v. Restart browser.</br>
       Done!</br></br>
    b. **If only installation from unpacked option is present:**</br>
       i. Download the zip file!</br>
